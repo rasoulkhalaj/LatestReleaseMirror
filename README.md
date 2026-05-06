@@ -174,4 +174,22 @@ sha256sum FILE_NAME
 | `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
 | `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
 | `karing_1.2.18.2102_windows_x64.zip` | 62.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.zip) |
+
+---
+
+<div id="hiddify--hiddify-app"></div>
+
+### hiddify--hiddify-app
+
+🔗 [source](https://github.com/hiddify/hiddify-app) – [<code><small>v4.1.1</small></code>](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `Hiddify-Debian-x64.deb` | 40.4 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Debian-x64.deb) |
+| `Hiddify-Linux-x64-AppImage.AppImage` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Linux-x64-AppImage.AppImage) |
+| `Hiddify-Linux-x64-AppImage.tar.gz` | 52.1 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Linux-x64-AppImage.tar.gz) |
+| `Hiddify-MacOS-Installer.pkg` | 79.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-MacOS-Installer.pkg) |
+| `Hiddify-MacOS.dmg` | 79.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-MacOS.dmg) |
+| `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
+| `Hiddify-Windows-x64.msix` | 47.5 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-x64.msix) |
 <!-- RELEASES_END -->
