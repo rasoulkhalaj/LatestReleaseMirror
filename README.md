@@ -157,5 +157,21 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="karingx--karing"></div>
 
+### KaringX--karing
+
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+
+| File | Size | Download |
+|------|------|----------|
+| `karing_1.2.18.2102_android_arm.apk` | 89.5 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm.apk) |
+| `karing_1.2.18.2102_android_arm64-v8a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm64-v8a.apk) |
+| `karing_1.2.18.2102_android_armeabi-v7a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_armeabi-v7a.apk) |
+| `karing_1.2.18.2102_linux_amd64.AppImage` | 69.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.AppImage) |
+| `karing_1.2.18.2102_linux_amd64.deb` | 48.4 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.deb) |
+| `karing_1.2.18.2102_linux_amd64.rpm` | 52.2 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.rpm) |
+| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
+| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
+| `karing_1.2.18.2102_windows_x64.zip` | 62.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rasoulkhalaj/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.zip) |
 <!-- RELEASES_END -->
